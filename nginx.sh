@@ -18,5 +18,4 @@ useradd -s /sbin/nologin nginx
 cd
 #设置软连接
 ln -s /usr/local/nginx/sbin/nginx /sbin/
-
-
+echo "dongweifei"
